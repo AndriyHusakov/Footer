@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    width: 1440px;
+    height: 125px;
+    background: #74C69D;
+    display: flex;
+    align-items: center;
+}
+
+
+.footer-icons {
+    display: flex;
+    gap: 20px;
+    width: 242px;
+    height: 18px;
+    margin-left: 131px;
+
+}
+
+.footer-tex {
+    margin-left: 609px;
+    width: 526px;
+    height: 25px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: 'Work Sans';
+}
+
+.footer__small {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 375px;
+    height: 125px;
+    background: #74C69D;
+    gap: 20px;
+}
+
+.footer-tex__small {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: 'Work Sans';
+}
+
+.footer-icons__small{
+    display: flex;
+    gap: 20px ;
+    width: 242px;
+    height: 18px;
+   
+
+}
